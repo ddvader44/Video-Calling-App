@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19640333621",
+    "firebase_url": "https://double-46711.firebaseio.com",
+    "project_id": "double-46711",
+    "storage_bucket": "double-46711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19640333621:android:7b81fe1487ef4fd015087c",
+        "android_client_info": {
+          "package_name": "com.example.adouble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19640333621-gc12am4j8qvfqv02ot5redng466o4upq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo4JDDIHBMd-mn5GyVL3UeNRvR2xuL4bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19640333621-gc12am4j8qvfqv02ot5redng466o4upq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
